@@ -1,6 +1,4 @@
-<p align=center>
 ## DotSlashLevi's Profile
-</p>
 - I’m currently working on a website for my packs, info, and portfolio.
 - I’m currently learning html+css, and C#. I keep forgetting C# exists ngl.
 - Pronouns: He/Him.

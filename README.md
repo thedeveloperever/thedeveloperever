@@ -1,8 +1,8 @@
-### Hello there. 👀
-
-- 🔭 I’m currently working on nothing, hmu if you need anything worked on in bash, batch or Python.
-- 🌱 I’m currently learning c# and I keep forgetting it exists ngl.
-- 💬 Ask me about anything.
-- 📫 How to reach me: lchavez3509@gmail.com
-- 😄 Pronouns: Any + i didn't ask.
-- ⚡ Fun fact: I suck at coding.
+<p align=center>
+## DotSlashLevi's Profile
+</p>
+- I’m currently working on a website for my packs, info, and portfolio.
+- I’m currently learning html+css, and C#. I keep forgetting C# exists ngl.
+- Pronouns: He/Him.
+- Fun Fact: I suck at coding in c++ and C# so don't even ask for a project such as an autoclicker or reach hack, as I need to get the basics down.
+- Contact Info: levilouis@protonmail.com - +12342760080

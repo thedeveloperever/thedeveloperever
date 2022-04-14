@@ -1,9 +1,9 @@
 ## DotSlashLevi's Profile
 - Pronouns: He/Him.
-- I volunteer for VisionMC and I manage the server (like literally the server its hosted on).
-- I know Bash, batch, and Python.
-- I’m currently working on a website for my Minecraft texturepacks, info, and portfolio.
-- I’m currently learning html+css, and C#. I keep forgetting C# exists ngl.
+- I volunteer for VisionMC and I manage the server.
+- I know HTML, CSS, Bash, batch, and Python.
+- I’m currently working on a website for my texturepacks, and portfolio.
+- I’m currently learning F# and C#.
 - Q/A :
 
      Will you friend me on discord? Yes, I know I am not above others.

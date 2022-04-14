@@ -1,6 +1,11 @@
 ## DotSlashLevi's Profile
+- Pronouns: He/Him.
+- I volunteer for VisionMC and I manage the server (like literally the server its hosted on).
+- I know Bash, batch, and Python.
 - I’m currently working on a website for my Minecraft texturepacks, info, and portfolio.
 - I’m currently learning html+css, and C#. I keep forgetting C# exists ngl.
-- Pronouns: He/Him.
-- Fun Fact: I suck at coding in c++ and C# so don't even ask for a project such as an autoclicker or reach hack, as I need to get the basics down.
-- Contact Info: levilouis@protonmail.com - +12342760080
+- Q/A :
+-   Will you friend me on discord? Yes as I know I am not above others just.
+-   Will you make me a program? When summer hits, most likely.
+-   Do you have a licence? I'm in the process of making one. Please follow it, as it will apply to all of my programs starting April 20th.
+-   Do you know more than one female? Yes.

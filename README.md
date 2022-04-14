@@ -6,7 +6,7 @@
 - I’m currently learning html+css, and C#. I keep forgetting C# exists ngl.
 - Q/A :
 
-     Will you friend me on discord? Yes as I know I am not above others just.
+     Will you friend me on discord? Yes, I know I am not above others.
      
      Will you make me a program? When summer hits, most likely.
      

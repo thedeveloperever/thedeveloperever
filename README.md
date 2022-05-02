@@ -10,4 +10,4 @@
      
      Will you make me a program? When summer hits, most likely.
      
-     Do you have a licence? I'm in the process of making one. Please follow it, as it will apply to all of my programs starting April 15th at 3:00 PM Eastern        Standard time.
+     Do you have a licence? I'm in the process of making one. Please follow it, it applies to all of my programs.

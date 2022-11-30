@@ -1,4 +1,6 @@
-## dotslashlevi's Profile (basic ik)
-- I'm learning amonglang.
-- I'm currently working on a Windows optimizer. 
-- I'm also working on recoding my website to look cleaner.
+## dotslashlevi's Profile (its sarcasm)
+- I'm learning/working on
+  - couleur tweak  tips ipp address
+  - fortite  skeedlist xd  777777777)
+  - Windows optimmizer
+  - recodinng my webbsite

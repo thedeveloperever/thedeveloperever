@@ -6,4 +6,4 @@
   - recoding my website in Markdown because its quicker
 
 # Profile Stats
-![thenstop's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenstop&count_private=true&theme=transparent)
+![thenstop's GitHub stats](https://github-readme-stats.vercel.app/api?username=dotslashlevi&count_private=true&theme=transparent)

@@ -1,6 +1,5 @@
 ## dotslashlevi's Profile (its sarcasm)
 - I'm learning/working on
-  - couleur tweak  tips ipp address
-  - fortite  skeedlist xd  777777777)
-  - Windows optimmizer
-  - recodinng my webbsite
+  - a Windows optimizer that does basic debloating and performance tweaks
+  - a MacOS optimizer that does basic service disabling and optimizing
+  - recoding my website in Markdown because its quicker

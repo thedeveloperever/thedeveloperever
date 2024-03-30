@@ -1,11 +1,10 @@
-## thenstop's Profile
-- I'm learning/working on
-  - A MacOS optimizer that does basic service disabling and optimizing ☑️
+## TheDeveloperEver's Profile
+- I'm working on
+  - MacOS optimizer that does basic service disabling and optimizing ☑️
   - Recoding my website using tailwindcss ⏩
-  - Learning C and C++ ✏️
-  - Testing Windows Tweaks 😄
+  - Learning C ✏️
   
 - Interests
+  - Scripting 🗞️
   - Cybersecurity 🐛
   - System administration 👾
-  - Scripting 🗞️

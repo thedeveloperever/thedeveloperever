@@ -4,7 +4,7 @@
 
 - I'm currently working on
   - Making a macOS optimizer that does basic service disabling and optimizing
-  - Making a windows optimizer that fully tweaks the operating system using safe tweaks
+  - Making a Windows 10/11 optimizer that fully tweaks the operating system using safe tweaks
   - Rewriting a minecraft server software that has a custom knockback implementation
   - Learning Java and Python
   

@@ -1,6 +1,6 @@
 ## Hi! I'm TheDeveloperEver.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedeveloperever)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedeveloperever&show_icons=true&theme=transparent)]
 
 - I'm currently working on
   - Making a macOS optimizer that does basic service disabling and optimizing

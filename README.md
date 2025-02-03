@@ -3,12 +3,16 @@
 ![TheDeveloperEver's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedeveloperever&show_icons=true&theme=transparent)
 
 - I'm currently working on
-  - Making a macOS optimizer that does basic service disabling and optimizing
-  - Making a Windows 10/11 optimizer that fully tweaks the operating system using safe tweaks
-  - Rewriting a minecraft server software that has a custom knockback implementation
-  - Learning Java and Python
-  
+  - Making a Windows optimizer that fully tweaks the system using safe tweaks 🏃🪟
+  - Making a macOS optimizer that fully tweaks the system using safe tweaks 🏃🍎
+  - Rewriting SpigotX for highly optmized performance and custom knockback ⚔️
+  - Learning Java and C to further push my skills and expertise 🧠
+
 - Interests
-  - Coding
-  - Cybersecurity
-  - System administration
+  - Coding 🔢
+  - Cybersecurity 🔐
+  - System administration 🖥️
+
+- Get in contact
+  - Discord: @thenstop
+  - E-Mail: contactme@thenstop.xyz
